@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Demonwiki/static/css/main.bb34d784.css",
-    "main.js": "/Demonwiki/static/js/main.0373b98d.js",
+    "main.js": "/Demonwiki/static/js/main.b96bc37a.js",
     "static/js/787.ac9fb264.chunk.js": "/Demonwiki/static/js/787.ac9fb264.chunk.js",
     "static/media/7282714.webp": "/Demonwiki/static/media/7282714.c4356ab906d505ca14c8.webp",
     "static/media/up6-1.webp": "/Demonwiki/static/media/up6-1.afe5bf8a45682e709cf3.webp",
@@ -36,11 +36,11 @@
     "static/media/Muzan.webp": "/Demonwiki/static/media/Muzan.e0c9250b9ac9283eda12.webp",
     "index.html": "/Demonwiki/index.html",
     "main.bb34d784.css.map": "/Demonwiki/static/css/main.bb34d784.css.map",
-    "main.0373b98d.js.map": "/Demonwiki/static/js/main.0373b98d.js.map",
+    "main.b96bc37a.js.map": "/Demonwiki/static/js/main.b96bc37a.js.map",
     "787.ac9fb264.chunk.js.map": "/Demonwiki/static/js/787.ac9fb264.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb34d784.css",
-    "static/js/main.0373b98d.js"
+    "static/js/main.b96bc37a.js"
   ]
 }
