@@ -1,10 +1,22 @@
 {
   "files": {
-    "main.css": "/Demonwiki/static/css/main.bb34d784.css",
-    "main.js": "/Demonwiki/static/js/main.b96bc37a.js",
+    "main.css": "/Demonwiki/static/css/main.659de8ea.css",
+    "main.js": "/Demonwiki/static/js/main.bf16c8c1.js",
     "static/js/787.ac9fb264.chunk.js": "/Demonwiki/static/js/787.ac9fb264.chunk.js",
+    "static/media/1.gif": "/Demonwiki/static/media/1.2ea79a25552df5a37e16.gif",
     "static/media/7282714.webp": "/Demonwiki/static/media/7282714.c4356ab906d505ca14c8.webp",
-    "static/media/up6-1.webp": "/Demonwiki/static/media/up6-1.afe5bf8a45682e709cf3.webp",
+    "static/media/5.png": "/Demonwiki/static/media/5.ea99ca8974c5a1d44fd5.png",
+    "static/media/4.jpg": "/Demonwiki/static/media/4.3369991a9251b4bcac02.jpg",
+    "static/media/2.webp": "/Demonwiki/static/media/2.9a6589987ab60ca4953c.webp",
+    "static/media/5.jpg": "/Demonwiki/static/media/5.f3aca96180baadbee904.jpg",
+    "static/media/3.jpg": "/Demonwiki/static/media/3.d63d4e90fb21847692ba.jpg",
+    "static/media/1.webp": "/Demonwiki/static/media/1.d4cc15f9fbe9d08b0946.webp",
+    "static/media/2.jpg": "/Demonwiki/static/media/2.4bf8a7c593ae88c905c9.jpg",
+    "static/media/3.webp": "/Demonwiki/static/media/3.6ff7d2e4906acbb41aa2.webp",
+    "static/media/1.jpg": "/Demonwiki/static/media/1.d2792cfbe31a9125c66d.jpg",
+    "static/media/5.webp": "/Demonwiki/static/media/5.992efcd414badae52cab.webp",
+    "static/media/4.webp": "/Demonwiki/static/media/4.be3b3d6c109921bd0614.webp",
+    "static/media/up6.jpg": "/Demonwiki/static/media/up6.3b2f5357fc23ae8bf745.jpg",
     "static/media/up3.webp": "/Demonwiki/static/media/up3.337807d806b72714bc24.webp",
     "static/media/Yoriichi.jpg": "/Demonwiki/static/media/Yoriichi.624b017f61529bcc2188.jpg",
     "static/media/up5.webp": "/Demonwiki/static/media/up5.6d853e357b1ba9c1d260.webp",
@@ -35,12 +47,12 @@
     "static/media/Giyu.webp": "/Demonwiki/static/media/Giyu.c7a6636ee6fbfa6d716f.webp",
     "static/media/Muzan.webp": "/Demonwiki/static/media/Muzan.e0c9250b9ac9283eda12.webp",
     "index.html": "/Demonwiki/index.html",
-    "main.bb34d784.css.map": "/Demonwiki/static/css/main.bb34d784.css.map",
-    "main.b96bc37a.js.map": "/Demonwiki/static/js/main.b96bc37a.js.map",
+    "main.659de8ea.css.map": "/Demonwiki/static/css/main.659de8ea.css.map",
+    "main.bf16c8c1.js.map": "/Demonwiki/static/js/main.bf16c8c1.js.map",
     "787.ac9fb264.chunk.js.map": "/Demonwiki/static/js/787.ac9fb264.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb34d784.css",
-    "static/js/main.b96bc37a.js"
+    "static/css/main.659de8ea.css",
+    "static/js/main.bf16c8c1.js"
   ]
 }
