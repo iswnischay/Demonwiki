@@ -33,4 +33,31 @@ body{
 a{
    
     color: white;
+    
 }
+.Galary{
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+.Galary::after{
+    text-align: left;
+}
+.full-img{
+  
+    width: 950px;
+    margin: 10px;
+  }
+  .small-img{
+      
+      width: 180px;
+      display: flex;
+      margin: 5px;
+  }
+  .galarytable{
+    
+      border: solid wheat;
+  }
+  .tdsmallimg{
+      margin: 0px;
+  }

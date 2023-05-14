@@ -4,6 +4,9 @@ import demons from '../data/data_demons';
 import { Link  } from 'react-router-dom';
 
 const Demons = () => {
+  const linkstyle ={
+    textDecoration: 'none',
+  }
   return (
     <div>
          <h1>Demons</h1><br />
@@ -11,10 +14,7 @@ const Demons = () => {
           <tr>
           {demons.slice(0, 3).map(demon => {
             return (
-              <td key={demon.id}><Link to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>
-            
-                
-              
+              <td key={demon.id}><Link style={linkstyle} to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>  
             );
           })}
           </tr>
@@ -24,10 +24,7 @@ const Demons = () => {
           <tr>
           {demons.slice(3, 9).map(demon => {
             return (
-              <td key={demon.id}><Link to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>
-            
-                
-              
+              <td key={demon.id}><Link style={linkstyle} to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>
             );
           })}
           </tr>
@@ -37,7 +34,7 @@ const Demons = () => {
           <tr>
           {demons.slice(9, 15).map(demon => {
             return (
-              <td key={demon.id}><Link to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>
+              <td key={demon.id}><Link style={linkstyle} to={`/DisplayDemon/${demon.id}`} key={demon.id}><img src={demon.img} alt={demon.name} /> <br />{demon.title}</Link></td>
             
                 
               
