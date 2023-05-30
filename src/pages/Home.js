@@ -1,9 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Nezuko from './Nezuko'
 
 
 const Home = () => {
   return (
+    <><Nezuko />
     <div className='homepage'>
       <h1>Demon Slayer Wiki</h1>
       <ul>
@@ -29,28 +31,28 @@ const Home = () => {
           <h4>
             <p>
               In Taisho-era Japan, <Link to={"/DisplayHashiras/10"}> Tanjiro Kamado </Link> is a kindhearted boy who makes a living selling charcoal. However, his peaceful life is shattered when a Demon slaughters his entire family. His little sister <Link to={"/DisplayDemon/2"}> Nezuko </Link> is the only survivor, but she has been transformed into a Demon herself! Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the Demon who ruined his life.
-          </p>
-        </h4>
-      </div><li><h2>Characters</h2><br /><br /><br /><br /></li><div>
-        <h2><Link to="/Hashiras">Demon Slayers</Link></h2>
-        <h4>
-          <p>
-            The Demon Slayers are the central adversary to the demon race. They are an organization trained to destroy them through a multitude of well refined techniques and tools developed across centuries to exterminate them. As a result, demons tend to live in secrecy with the population at large being ignorant to their existence. Even more, some demons blend into human society as a way to hide from persecutors and also to have a much easier access to prey.
-          </p>
-        </h4>
-      </div><div>
-        <h2><Link to="/Demons">Demons</Link></h2>
-        <h4>
-          <p>
-            Demons  are the titular main antagonistic faction of the manga Demon Slayer. They were originally humans who are transformed or been cursed by Muzan Kibutsuji, turned into ravenous monsters feeding on human flesh, and most of them have no shred of humanity inside of them. Despite their strength, they are easily felled by sunlight, turning to ash upon death.
-          </p>
-        </h4>
-      </div>
-       
+            </p>
+          </h4>
+        </div><li><h2>Characters</h2><br /><br /><br /><br /></li><div>
+          <h2><Link to="/Hashiras">Demon Slayers</Link></h2>
+          <h4>
+            <p>
+              The Demon Slayers are the central adversary to the demon race. They are an organization trained to destroy them through a multitude of well refined techniques and tools developed across centuries to exterminate them. As a result, demons tend to live in secrecy with the population at large being ignorant to their existence. Even more, some demons blend into human society as a way to hide from persecutors and also to have a much easier access to prey.
+            </p>
+          </h4>
+        </div><div>
+          <h2><Link to="/Demons">Demons</Link></h2>
+          <h4>
+            <p>
+              Demons  are the titular main antagonistic faction of the manga Demon Slayer. They were originally humans who are transformed or been cursed by Muzan Kibutsuji, turned into ravenous monsters feeding on human flesh, and most of them have no shred of humanity inside of them. Despite their strength, they are easily felled by sunlight, turning to ash upon death.
+            </p>
+          </h4>
+        </div>
+
       </ul>
-    
-     
-    </div>
+
+
+    </div></>
   )
 }
 

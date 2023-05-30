@@ -20,6 +20,12 @@
  import zenitsu_4 from './Demonslayer/demonslayers/Zenitsu/Galary/4.jpg'
  import zenitsu_5 from './Demonslayer/demonslayers/Zenitsu/Galary/5.jpg'
 
+ import Giyu_1 from './Demonslayer/demonslayers/Hasiras/Giyu Tomioka/Galary/1.webp'
+ import Giyu_2 from './Demonslayer/demonslayers/Hasiras/Giyu Tomioka/Galary/2.jpg'
+ import Giyu_3 from './Demonslayer/demonslayers/Hasiras/Giyu Tomioka/Galary/3.webp'
+ import Giyu_4 from './Demonslayer/demonslayers/Hasiras/Giyu Tomioka/Galary/4.gif'
+ import Giyu_5 from './Demonslayer/demonslayers/Hasiras/Giyu Tomioka/Galary/5.gif'
+
  import Shinobu_1 from './Demonslayer/demonslayers/Hasiras/Shinobu Kocho/Galary/1.gif'
  import Shinobu_2 from './Demonslayer/demonslayers/Hasiras/Shinobu Kocho/Galary/2.jpg'
  import Shinobu_3 from './Demonslayer/demonslayers/Hasiras/Shinobu Kocho/Galary/3.webp'
@@ -36,7 +42,7 @@
  import tanjiro_2 from './Demonslayer/demonslayers/Tanjiro/Galary/2.webp'
  import tanjiro_3 from './Demonslayer/demonslayers/Tanjiro/Galary/3.jpg'
  import tanjiro_4 from './Demonslayer/demonslayers/Tanjiro/Galary/4.jpg'
- import tanjiro_5 from './Demonslayer/demonslayers/Tanjiro/Galary/5.jpg'
+ import tanjiro_5 from './Demonslayer/demonslayers/Tanjiro/gifs/6.webp'
 
 
  
@@ -51,11 +57,11 @@
         title:"Water Hasira",
         name:"Giyu Tomioka",
         img:Giyu,
-        sl1:null,
-        sl2:"",
-        sl3:"",
-        sl4:"",
-        sl5:"",
+        sl1:Giyu_1,
+        sl2:Giyu_2,
+        sl3:Giyu_3,
+        sl4:Giyu_4,
+        sl5:Giyu_5,
         basicinfo:<h4><p>Giyu Tomioka is a major supporting character of Demon Slayer.</p> <p>He is a Demon Slayer of the Demon Slayer Corps and the current Water Hashira</p></h4>,
         abilities:<h4><p>Demon Slayer Mark : During his battle against Akaza, Giyu awakens his Demon Slayer Mark, appearing as a fluid-water like design on his left cheek, complementing his Breathing Style, Water Breathing. When activated, he gains a tremendous increase in speed, precision, and endurance to the point where he could engage in a long battle against the Upper Rank.</p></h4>,
         BreathingStyle:<h4><p>Water Breathing A Breathing Style taught to him by the Water Hashira before him, Sakonji Urokodaki. As the Water Hashira, Giyu is his generation's most skilled Water Breathing user. Giyu has completely mastered this swordsmanship style, to the point that he created an entirely new technique within the Breathing Style and impressed Akaza who had fought Water Hashira in the past.</p></h4>,
@@ -70,7 +76,7 @@
         sl2:"",
         sl3:"",
         sl4:"",
-        sl5:"",
+        sl5:"", 
         basicinfo:<h4><p>Kyojuro Rengoku  was a major supporting character of Demon Slayer and the deuteragonist of the Mugen Train Arc.</p> <p> He was a Demon Slayer of the Demon Slayer Corps and the late Flame Hashira.  </p></h4>,
         abilities:<h4><p>As a Hashira of the Demon Slayer Corps, Kyojuro was a very powerful and skilled combatant.Before he took his father's place, Kyojuro was already shown to be an amazing fighter. He successfully avenged the death of the 9 Demon Slayers that died to the Flute Demon by himself and later managed to singlehandedly defeat Lower Rank Two, Hairo, who even appraised his swordsmanship before he died. Moreover, his father, Shinjuro Rengoku, stated that, after he stopped teaching his son, Kyojuro trained himself to become a Hashira by learning from the guide book of the Flame Breathing style, a book which only had three volumes. </p></h4>,
         BreathingStyle:<h4><p>Flame Breathing : A Breathing Style taught to Kyojuro by the previous Flame Hashira, Shinjuro Rengoku, and later mastered by reading the instruction books left behind by previous Flame Hashira in the Rengoku Family. As the Flame Hashira, Kyojuro is his generation's most skilled Flame Breathing user. He became evidently proficient in fighting with this Breathing Style, being able to singlehandedly defeat former Lower Rank Two, Hairo and later hold his own against Upper Rank Three, Akaza.</p></h4>,
@@ -179,8 +185,8 @@
         title:<br/>,
         name:"Tanjiro Kamado",
         img:Tanjiro,
-        sl1:tanjiro_1,
-        sl2:tanjiro_2,
+        sl1:tanjiro_2,
+        sl2:tanjiro_1,
         sl3:tanjiro_3,
         sl4:tanjiro_4,
         sl5:tanjiro_5,

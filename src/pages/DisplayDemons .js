@@ -86,18 +86,17 @@ const DisplayDemons = () => {
             <img src={demon.img} alt={demon.name}/>
             <h1>   {demon.name}</h1>
           </div>
-          <br/><br/><br/><br/><br/>
+          <br/><br/><br/>
           <h2>  Basic Info  </h2>
           <section>
               {demon.basicinfo}
             </section>
-            <br/><br/> 
             
           <h2>  Abilities  </h2>
           <section>
               {demon.abilities}
           </section>
-          <br/><br/>
+          <br/>
           <h2>  Blood Demon Art  </h2>
           <section>
               {demon.BloodDemonArt}

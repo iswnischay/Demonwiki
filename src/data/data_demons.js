@@ -126,9 +126,9 @@ const demons = [
        sl3:"",
        sl4:"",
        sl5:"",
-       basicinfo:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       abilities:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       BloodDemonArt:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
+       basicinfo:<h4><p>Hantengu  along with Gyokko, is one of the primary antagonists in the Swordsmith Village Arc of Demon Slayer.<br/> He is a demon affiliated with the Twelve Kizuki, holding the position of Upper Rank Four .</p></h4>,
+       abilities:<h4><p>Overall Abilities: As the holder of the fourth highest title in the Twelve Kizuki, Hantengu is an extremely powerful demon. Through his Blood Demon Art, he is able to create four clones that were manifestations of his emotions, each of them possessing an Upper Rank demon's level of strength. They were able to hold off and overwhelm the combined efforts of Tanjiro, Nezuko and Genya, all of whom were powerful and seasoned Demon Slayers. Genya stated that Hantengu was particularly difficult to defeat as the Demon Slayers would have to play a cat-and-mouse game instead of a traditional confrontation, looking for the main body while being chased down by four Upper Rank-level demons</p></h4>,
+       BloodDemonArt:<h4><p>Emotion Manifestation: Hantengu's Blood Demon Art allows him to manifest his emotions as younger clones of himself. Each clone personifies a core emotion, which can be identified by a kanji on their tongue. These clones all have different appearances, abilities, and weapons, with their individual strength being at least Upper Rank caliber, and all of them seemingly resembling a younger Hantengu. The emotions shown so far are anger, pleasure, sorrow, joy, hatred, and resentment, with Hantengu himself having the kanji of "fear" etched onto his tongue. It is implied that Hantengu can control these clones however he sees fit, as seen when he took control of Urami's body to kill a group of swordsmiths after he was beheaded.</p></h4>,
    },
    {
        id: 8,
@@ -140,9 +140,11 @@ const demons = [
        sl3:"",
        sl4:"",
        sl5:"",
-       basicinfo:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       abilities:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       BloodDemonArt:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
+       basicinfo:<h4><p>Gyokko along with Hantengu, is one of the primary antagonist in the Swordsmith Village Arc of Demon Slayer. He is a demon affiliated with the Twelve Kizuki, holding the position of Upper Rank Five.
+       <br />
+       Before becoming a demon, he was a human by the name of Managi.</p></h4>,
+       abilities:<h4><p>Overall Abilities: As the holder of the fifth highest position in the Twelve Kizuki, Gyokko is an extremely powerful demon. His unique Blood Demon Art and techniques allow him to easily outclass the average demons and give him the necessary edge to overwhelm and kill even the Hashira, the most skilled and powerful swordsman in the Demon Slayer Corps. As Upper Rank Five, Gyokko is more powerful than Gyutaro and Daki, the former having killed 15 Hashira and the latter having killed.</p></h4>,
+       BloodDemonArt:<h4><p>Porcelain Vases: Gyokko's Blood Demon Art revolves around his porcelain vases. He can presumably spawn them anywhere within his vicinity and create multiple pots of varying sizes at once. Gyokko first displayed the ability to freely teleport from one pot to another instantaneously, offsetting his lack of legs and allowing him to travel far distances with minimal effort as well as to evade attacks easily. Gyokko can also trap objects (such as people) inside his pots. If the object he wishes to seal is too big, the pots can simply compress them to fit inside.</p></h4>,
    },
    {
        id: 9,
@@ -154,9 +156,9 @@ const demons = [
        sl3:"",
        sl4:"",
        sl5:"",
-       basicinfo:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       abilities:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
-       BloodDemonArt:<h4><p><br/><br/>To Be Updated soon<br/><br/></p></h4>,
+       basicinfo:<h4><p> About Gyutaro:<br/> <br/>Gyutaro  was one of the primary antagonists in the Entertainment District Arc of Demon Slayer: Kimetsu no Yaiba. He was a demon affiliated with the Twelve Kizuki, holding the position of Upper Rank Six , a position he shares with his younger sister, Daki.</p> <p>About Daki :<br /><br />Daki  was one of the primary antagonists in the Entertainment District Arc of Demon Slayer. She was a demon affiliated with the Twelve Kizuki, being the secondary holder of the position of Upper Rank Six  a position she shared with the primary holder, her older brother, Gyutaro.</p></h4>,
+       abilities:<h4><p>Overall Abilities: As the secondary holder of Upper Rank Six, Daki and Gyutaro were an extremely powerful demon with over a century of fighting experience, having killed and devoured seven Hashira in the past. </p></h4>,
+       BloodDemonArt:<h4><p>Gyutaro's BloodDemonArt :<br/><br/>Kama Proficiency: Gyutaro has displayed mastery in dual wielding his flesh Kama in combat. As an Upper Rank demon, he has lived for over a century and has refined his skill to the point he can surpass the Hashira, the strongest swordsmen in the Demon Slayer Corps, in close ranged combat. </p><p>Daki's BloodDemonArt :<br/><br/> Obi Sash Manipulation: Daki's Blood Demon Art allowed her to create flower-patterned obi sashes from her flesh, as well as freely manipulating them at will. Daki often created these sashes from her back and retracts them back into her body when not in use.</p></h4>,
    },
    {
     id: 10,

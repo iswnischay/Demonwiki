@@ -50,9 +50,9 @@ a{
   }
   .small-img{
       
-      width: 180px;
-      display: flex;
-      margin: 5px;
+    width: 180px;
+    display: flex;
+    margin: 6px;
   }
   .galarytable{
     
@@ -61,3 +61,29 @@ a{
   .tdsmallimg{
       margin: 0px;
   }
+  .underline{
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .full-img1{
+    
+    width: 950px;
+    margin: 10px;
+  }
+  .small-img1{
+      
+      width: 180px;
+      display: flex;
+      margin: 5px;
+  }
+  .galarytable1{
+    
+      border: solid wheat;
+  }
+  .tdsmallimg1{
+      margin: 0px;}
+   button{
+             color: white;
+             background-color: black;
+             border: solid white;
+      }
